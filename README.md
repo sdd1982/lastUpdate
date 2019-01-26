@@ -1,0 +1,1 @@
+Fecha de la última actualización del proceso de contratación

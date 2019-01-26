@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "lastUpdate": {
+      "title": "Last release update",
+      "description": "The date this information was last released, or published.",
+      "type": "string",
+      "format": "date-time",
+      "omitWhenMerged": true
+    }
+  }
+}
