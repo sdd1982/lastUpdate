@@ -1,1 +1,17 @@
-{"name":{"en":"lastUpdate"},"description":{"en":"Fecha de la última actualización del proceso de contratación"},"documentationUrl":{"en":"https://github.com/sdd1982/lastUpdate/blob/master/README.md"}}
+{
+  "name": {
+    "en": "lastUpdate"
+  },
+  "description": {
+    "en": "Fecha de la última actualización del proceso de contratación"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/sdd1982/lastUpdate/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
